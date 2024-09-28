@@ -20,7 +20,7 @@
       "role": "${module.appcd_b71fd16c-797e-5a95-8e1b-ab22f1e34f43.arn}",
       "runtime": "python3.8",
       "s3_bucket": "stackgen-builds",
-      "s3_key": "builds/app.zip",
+      "s3_key": "build/app.zip",
       "s3_object_version": null,
       "source": "./modules/aws_lambda",
       "system_log_level": null,
